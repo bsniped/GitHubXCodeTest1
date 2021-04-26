@@ -13,7 +13,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         
-        print("Hello World, This is the Initial Commit")
+        print("Hello World, This is version 1.1 committed to main")
         
     }
 
