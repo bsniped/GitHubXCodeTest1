@@ -13,6 +13,7 @@
 		D8A6CF43263746A000AC92EF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D8A6CF41263746A000AC92EF /* Main.storyboard */; };
 		D8A6CF45263746A000AC92EF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D8A6CF44263746A000AC92EF /* Assets.xcassets */; };
 		D8A6CF48263746A000AC92EF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D8A6CF46263746A000AC92EF /* LaunchScreen.storyboard */; };
+		D8E733F9263754FB0080E0D9 /* NewVCfromDesktop.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8E733F8263754FB0080E0D9 /* NewVCfromDesktop.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		D8A6CF44263746A000AC92EF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D8A6CF47263746A000AC92EF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D8A6CF49263746A000AC92EF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D8E733F8263754FB0080E0D9 /* NewVCfromDesktop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewVCfromDesktop.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				D8A6CF3B263746A000AC92EF /* AppDelegate.swift */,
 				D8A6CF3D263746A000AC92EF /* SceneDelegate.swift */,
 				D8A6CF3F263746A000AC92EF /* ViewController.swift */,
+				D8E733F8263754FB0080E0D9 /* NewVCfromDesktop.swift */,
 				D8A6CF41263746A000AC92EF /* Main.storyboard */,
 				D8A6CF44263746A000AC92EF /* Assets.xcassets */,
 				D8A6CF46263746A000AC92EF /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			files = (
 				D8A6CF40263746A000AC92EF /* ViewController.swift in Sources */,
 				D8A6CF3C263746A000AC92EF /* AppDelegate.swift in Sources */,
+				D8E733F9263754FB0080E0D9 /* NewVCfromDesktop.swift in Sources */,
 				D8A6CF3E263746A000AC92EF /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
