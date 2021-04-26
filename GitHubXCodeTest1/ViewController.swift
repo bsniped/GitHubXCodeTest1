@@ -13,9 +13,9 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         
-        print("Hello World, This is version 1.3 committed to main repository")
-       print("In this version, we're adding a 'print' statement")
-        
+        print("Hello World, This is version 1.3.2 committed to main repository")
+        print("In the version that wasn't pushed, we added a NewVCfromDesktop.swift file. In this one, we're also adding an additional print statement below and correcting indention.")
+        print("Additional print statement")
         
     }
 
