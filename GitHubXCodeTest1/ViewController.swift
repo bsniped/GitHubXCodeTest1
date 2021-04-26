@@ -13,8 +13,10 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         
-        print("Hello World, This is version 1.2 committed to main repository")
+        print("Hello World, This is version 1.2.1 committed to main repository")
         print("This is an additional line of code")
+        print("This is going to be commit #1")
+    
         
     }
 
